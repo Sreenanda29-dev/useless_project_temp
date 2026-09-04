@@ -94,9 +94,8 @@ https://drive.google.com/file/d/1T5MNCker3KSZx1vp0exp3o1PK-KlQAUT/view?usp=shari
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- ANUGRAH VISWANADH R V:IDEA
+- SREENANDA K V:PROGRAMER
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

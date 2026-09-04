@@ -2,39 +2,45 @@
 
 
 
-# [Project Name] 🎯
+# [REVERSE CLOCK] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: CORE2
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [SREENANDA K V] - [College OF ENGINEERING VADAKARA]
+- Member 2: [ANUGARH VISWANADH R V] - [College OF ENGINEERING VADAKARA]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+Reverse Clock is an Arduino-based useless project that makes time and date move backward. It includes speed control, time travel, a reverse alarm, and random speed glitches, making it fun but completely unnecessary.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Normal clocks only move forward. Our project solves the “problem” of not being able to go backward in time by creating a clock that reverses time and date
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We created an Arduino-based Reverse Clock that moves the time and date backward, with speed control, time travel, reverse alarm, and random glitches.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+* Arduino IDE – for writing and uploading the code
+* Arduino C/C++ – programming language
+* Tinkercad Circuits – for circuit design and simulation
+* LiquidCrystal Library – for controlling the 16×2 LCD
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+* Arduino Uno
+* 16×2 LCD display
+* 10kΩ potentiometer
+* 4 push buttons
+* Green, yellow & red LEDs
+* 220Ω resistors
+* Piezo buzzer
+* Breadboard
+* Jumper wires
 
 ### Implementation
 For Software:
@@ -42,24 +48,23 @@ For Software:
 [commands]
 
 # Run
-[commands]
 
 ### Project Documentation
-For Software:
+For Software:TINKERCAD SIMULATOR
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]()
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/c377597c-180f-4c56-8ee4-6162be41b789" />
+![Screenshot2]()
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/7426d6fd-605a-4eba-8bb2-d53d037d4390" />
+![Screenshot3]()
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/dc9cd4b5-2208-49e9-80c4-15a82f04864c" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/58976c3d-a6c6-4cac-b124-963b79a0064f" />
+
 
 For Hardware:
 
@@ -82,7 +87,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/file/d/1T5MNCker3KSZx1vp0exp3o1PK-KlQAUT/view?usp=sharing
 *Explain what the video demonstrates*
 
 # Additional Demos
